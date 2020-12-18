@@ -1,4 +1,11 @@
 # acme
+Here is the Code Assessment as assigned 12/17/2020.
+
+I wanted to focus more on storing (temp) date per Customer and then furhter indicating any expected expiration based on Product type and condidtions surrounding email notifications relative to product and defined email send date.
+
+This is built using Vue 2.X and as a result, might require the VueCLI to compile/build the project.
+
+The chosen Component Framework is Vuetify 2.3.21
 
 ## Project setup
 ```
@@ -14,11 +21,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
